@@ -1,0 +1,4 @@
+1- Foi criado o esquema de definição basica!
+2- Foi criado o diagrama de classes
+
+3- Inicio da implementação no python!
